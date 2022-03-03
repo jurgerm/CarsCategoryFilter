@@ -1,5 +1,4 @@
 import { CarTypeOther } from "./carTypeOther";
-import { ReactComponent as x } from '../../icons/x.svg';
 import { useState } from "react";
 
 export const CarTypesOther = ({ carTypes }) => {
